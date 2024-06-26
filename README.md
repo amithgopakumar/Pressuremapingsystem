@@ -1,1 +1,1 @@
-# Pressure maping system for Gait Analysis 
+# ESP32 PCB designed for using FSR sensor to measure the pressure
